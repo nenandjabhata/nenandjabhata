@@ -16,8 +16,10 @@
 </p>
 
 <p align="center">
-  📫 How to reach me:
+  📫 How to reach me: <br>
   <a href="mailto:nenandjabhata@proton.me">nenandjabhata@proton.me</a>
+  <br>
+  <a href="">Discord : blomann#3219
 </p>
 
 <h3 align="left">
