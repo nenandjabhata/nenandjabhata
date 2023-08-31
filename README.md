@@ -27,8 +27,15 @@
 </h3>
 
 <ul align="left">
-  <li><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn" width="40" height="40"/></a></li>
-  <li><a href="https://twitter.com/bloman19" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Twitter_Logo.svg/1200px-Twitter_Logo.svg.png" alt="Twitter" width="40" height="40"/></a></li>
+ <p align="center">
+<a href="https://www.linkedin.com/in/abdoulaye-diallo-241aa71a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdoulaye-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/bloman19/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Abdoulaye-blue?style=flat-square&logo=twitter"></a>
+<a href="https://blackcybersec.xyz/"><img alt="Website" src="https://img.shields.io/badge/BlackCyberSec.xyz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://app.hackthebox.com/profile/1143465"><img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-nenandjbhata-lime?style=flat-square&logo=hackthebox"></a>
+<a href="https://tryhackme.com/p/bloman"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-bloman-navy?style=flat-square&logo=tryhackme"></a>
+
+
+
 </ul>
 
 <h3 align="left">
@@ -47,3 +54,6 @@
 <p align="center">
   👀 I'm always looking for new projects to work on. If you have any ideas, let me know!
 </p>
+
+  [![Abdoulaye Diallo GitHub Stats](https://github-readme-stats.vercel.app/api?username=nenandjabhata&show_icons=true&theme=buefy)](https://github.com/nenandjabhata)
+
