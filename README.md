@@ -47,7 +47,7 @@ In this GitHub account, you'll find a variety of cybersecurity projects. Feel fr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocapikk&layout=compact&theme=merko" alt="Chocapikk's top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenandjabhata&layout=compact&theme=merko" alt="nenandjabhata's top langs">
 </p>
 
 <p align="center">
