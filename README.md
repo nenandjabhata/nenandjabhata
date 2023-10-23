@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-  <strong>🌱 I’m currently learning:</strong>
+
+  ## 🌱 I’m currently learning:
+ 
   <ul>
     <li>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="20" height="20">
@@ -29,22 +31,45 @@
   </ul>
 </p>
 
+## 📚 Repositories
 
+In this GitHub account, you'll find a variety of cybersecurity projects. Feel free to explore, and learn! 🎮🔍
+
+## 🤓 Stats 📊
 <p align="center">
-  📫 How to reach me: <br>
-  <a href="mailto:nenandjabhata@proton.me">
-    <img src="https://avatars.githubusercontent.com/u/5374816?s=48&v=4" alt="Email" width="20" height="20">
-    nenandjabhata@proton.me
-  </a>
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4" alt="Discord" width="20" height="20">
-  blomann#3219
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@nenandjabhata:~%23" alt="Introduction">
 </p>
 
+<p align="center">
+  <strong>Views</strong>
+  <br>
+  <img src="https://profile-counter.glitch.me/nenandjabhata/count.svg" alt="Visitors">
+</p>
 
-<h3 align="left">
-  Connect with me:
-</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocapikk&layout=compact&theme=merko" alt="Chocapikk's top langs">
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nenandjabhata&theme=merko" alt="nenandjabhata's github stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nenandjabhata&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="nenandjabhata's contrib">
+</p>
+
+<p align="center">
+
+  ## 📫 How to reach me:
+ Feel free to connect with me on social media or send me an email
+- 🐦 Twitter: [@bloman19](https://twitter.com/bloman19)
+- 📧 Email: [nenandjabhata@proton.me](mailto:nenandjabhata@proton.me)
+
+
+##  Connect with me:
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdoulaye-diallo-241aa71a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdoulaye-blue?style=flat-square&logo=linkedin"></a>
@@ -54,9 +79,9 @@
   <a href="https://tryhackme.com/p/bloman"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-bloman-navy?style=flat-square&logo=tryhackme"></a>
 </p>
 
-<h3 align="left">
-  Languages and Tools:
-</h3>
+
+##  Languages and Tools:
+
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -68,7 +93,3 @@
 <p align="center">
   👀 I'm always looking for new projects to work on. If you have any ideas, let me know!
 </p>
-
-
-  [![Abdoulaye Diallo GitHub Stats](https://github-readme-stats.vercel.app/api?username=nenandjabhata&show_icons=true&theme=buefy)](https://github.com/nenandjabhata)
-
