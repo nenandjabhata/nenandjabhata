@@ -93,3 +93,5 @@ In this GitHub account, you'll find a variety of cybersecurity projects. Feel fr
 <p align="center">
   👀 I'm always looking for new projects to work on. If you have any ideas, let me know!
 </p>
+
+<a href="https://www.buymeacoffee.com/bloman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
